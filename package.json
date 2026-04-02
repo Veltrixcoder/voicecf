@@ -1,0 +1,11 @@
+{
+  "name": "voicelink",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy worker.js"
+  },
+  "devDependencies": {
+    "wrangler": "^4.80.0"
+  }
+}
